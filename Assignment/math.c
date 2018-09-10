@@ -1,4 +1,7 @@
 
+#include<math.h>
+#include<stdio.h>
+
 int main(void)
 {
     int math(int num1, int num2, char Operator);
